@@ -1,0 +1,13 @@
+name: eutopia-academy
+channels:
+  - defaults
+  - conda-forge
+  - schrodinger
+dependencies:
+  - numpy
+  - pep8
+  - pip
+  - python
+  - vmd
+  - ambertools=20
+  
